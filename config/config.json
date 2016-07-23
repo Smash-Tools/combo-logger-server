@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "",
+    "password": "password",
+    "database": "combo-logger-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "",
+    "password": "password",
+    "database": "combo-logger-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "",
+    "password": "password",
+    "database": "combo-logger-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
